@@ -24,5 +24,6 @@ Styles for the navigation, about section (including circular profile image), pro
 A simple responsive design using @media queries
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/88e1481a-89da-4d50-91df-196bc0b54dee)
 
 
